@@ -16,5 +16,5 @@ The energy price data was fetched from the Elexon BMRS, using this api https://g
 ## UK power station output after installing a grid level battery, using a simple model based on 2GW max charge rate and ~33GW of storage
 ![model-output](assets/model_output.png)
 
-![grid-demand](asssets/uk_demand_battery_demand.png)
+![grid-demand](assets/uk_demand_battery_demand.png)
 
